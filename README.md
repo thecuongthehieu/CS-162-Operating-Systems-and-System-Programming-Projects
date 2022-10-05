@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-CS 162 Group Repository
-=======================
-
-This repository contains code for CS 162 group projects.
-
-**Design documents**
-
-* [Project 1: User Programs](doc/project1.md)
-* [Project 2: Threads](doc/project2.md)
-* [Project 3: File System](doc/project3.md)
-
-**Final reports**
-
-* [Project 1: User Programs](report/project1.md)
-* [Project 2: Threads](report/project2.md)
-* [Project 3: File System](report/project3.md)
-=======
 # CS162: Operating Systems and Systems Programming
 ## Course Info
 - The purpose of this course is to teach the design of operating systems and operating systems concepts that appear in other advanced systems. Topics we will cover include concepts of operating systems, systems programming, networked and distributed systems, and storage systems, including multiple-program systems (processes, interprocess communication, and synchronization), memory allocation (segmentation, paging), resource allocation and scheduling, file systems, basic networking (sockets, layering, APIs, reliability), transactions, security, and privacy.
@@ -37,4 +19,18 @@ This repository contains code for CS 162 group projects.
   - git add test_file
   - git commit -m "Added a test file."
   - git push personal master
->>>>>>> e12b800bea5c307176dadb09e9ccd288264d598e
+
+## CS 162 Group Repository
+This repository contains code for CS 162 group projects.
+
+**Design documents**
+
+* [Project 1: User Programs](doc/project1.md)
+* [Project 2: Threads](doc/project2.md)
+* [Project 3: File System](doc/project3.md)
+
+**Final reports**
+
+* [Project 1: User Programs](report/project1.md)
+* [Project 2: Threads](report/project2.md)
+* [Project 3: File System](report/project3.md)
